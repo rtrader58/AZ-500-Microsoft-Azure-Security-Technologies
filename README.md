@@ -1,4 +1,4 @@
-# AZ-500 Azure Security Fundamental Links
+# AZ-500 Azure Security Fundamental
 ## This repository is provided to enhance the course
 ##  Updated 8/29/2022
 
