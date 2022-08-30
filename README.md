@@ -53,43 +53,78 @@ All you need to know about Cloud Sync  Azure AD Connect cloud sync documentat
 
 What is password hash synchronization with Azure AD? - https://docs.microsoft.com/en-us/azure/active-directory/hybrid/whatis-phs
 User sign-in with Azure Active Directory Pass-through Authentication - https://docs.microsoft.com/en-us/azure/active-directory/hybrid/how-to-connect-pta
+
 Azure AD Connect and federation - https://docs.microsoft.com/en-us/azure/active-directory/hybrid/how-to-connect-fed-whatis
 Authentication for Azure AD hybrid identity solutions - Active Directory | Microsoft Docs
+
 Understand hybrid connectivity - https://docs.microsoft.com/en-us/learn/modules/m365-teams-upgrade-hybrid
+
 What is Azure Active Directory Identity Protection? - https://docs.microsoft.com/en-us/azure/active-directory/identity-protection/overview-identity-protection 
+
 Azure Active Directory risk detections -  https://docs.microsoft.com/en-us/azure/active-directory/reports-monitoring/concept-risk-events
+
 User risk policies - https://docs.microsoft.com/en-us/azure/active-directory/identity-protection/concept-identity-protection-policies#user-risk-policy
+
 How To: Configure and enable risk policies - https://docs.microsoft.com/en-us/azure/active-directory/identity-protection/howto-identity-protection-configure-risk-policies
+
 Multi-factor authentication - https://azure.microsoft.com/en-us/services/multi-factor-authentication
+
 Enable per-user Azure Multi-Factor Authentication to secure sign-in events - https://docs.microsoft.com/en-us/azure/active-directory/authentication/howto-mfa-userstates
+
 Configure Azure Multi-Factor Authentication settings - https://docs.microsoft.com/en-us/azure/active-directory/authentication/howto-mfa-mfasettings
+
 What is Conditional Access? - https://docs.microsoft.com/en-us/azure/active-directory/conditional-access/overview
+
 Conditional Access: Require MFA for all users - https://docs.microsoft.com/en-us/azure/active-directory/conditional-access/howto-conditional-access-policy-all-users-mfa
+
 What are Azure AD access reviews? - https://docs.microsoft.com/en-us/azure/active-directory/governance/access-reviews-overview
+
 Overview of identity and access management in Microsoft 365 - https://docs.microsoft.com/en-us/learn/modules/m365-identity-overview
+
 Secure Azure Active Directory users with Multi-Factor Authentication - https://docs.microsoft.com/en-us/learn/modules/secure-aad-users-with-mfa/
+
 Protect your identities with Azure AD Identity Protection - https://docs.microsoft.com/en-us/learn/modules/protect-identities-with-aad-idp/
+
 Zero Trust Model - https://www.microsoft.com/en-us/security/business/zero-trust
+
 Identity and access management - https://docs.microsoft.com/en-us/azure/architecture/framework/security/identity
+
 What is Azure AD Privileged Identity Management? - https://docs.microsoft.com/en-us/azure/active-directory/privileged-identity-management/pim-configure
+
 Roles that can be managed by Privileged Identity Management - https://docs.microsoft.com/en-us/azure/active-directory/privileged-identity-management/pim-deployment-plan#roles-that-can-be-managed-by-privileged-identity-management
+
 Protect identity and access with Microsoft 365 - https://docs.microsoft.com/en-us/learn/paths/m365-identity/
+
 PIM Documentation - https://docs.microsoft.com/en-us/azure/active-directory/privileged-identity-management/
+
 Shared responsibility in the cloud - https://docs.microsoft.com/en-us/azure/security/fundamentals/shared-responsibility
+
 Security best practices for Azure solutions -  https://azure.microsoft.com/mediahandler/files/resourcefiles/security-best-practices-for-azure-solutions/Azure%20Security%20Best%20Practices.pdf
+
 Azure Policy Documentation - https://docs.microsoft.com/azure/azure-policy
+
 Azure built-in roles - https://docs.microsoft.com/en-us/azure/role-based-access-control/built-in-roles
+
 Lock resources to prevent unexpected change - https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-group-lock-resources
+
 What is Azure Blueprints - https://docs.microsoft.com/en-us/azure/governance/blueprints/overview
+
 Transfer billing ownership of an Azure subscription to another account - https://docs.microsoft.com/en-us/azure/cost-management-billing/manage/billing-subscription-transfer
+
 Control and organize Azure resources with Azure Resource Manager - https://docs.microsoft.com/en-us/learn/modules/control-and-organize-with-azure-resource-manage
+
 Secure your Azure resources with role-based access control (RBAC) - https://docs.microsoft.com/en-us/learn/modules/secure-azure-resources-with-rbac/
+
 Create custom roles for Azure resources with role-based access control (RBAC) - https://docs.microsoft.com/en-us/learn/modules/create-custom-azure-roles-with-rbac/
+
 Apply and monitor infrastructure standards with Azure Policy - https://docs.microsoft.com/en-us/learn/modules/intro-to-governance/
+
 Manage access to an Azure subscription by using Azure role-based access control (RBAC) - https://docs.microsoft.com/en-us/learn/modules/manage-subscription-access-azure-rbac/
+
 Control and organize Azure resources with Azure Resource Manager - https://docs.microsoft.com/en-us/learn/modules/control-and-organize-with-azure-resource-manager/
 
-Module 2
+## Module 2
+
 Cloud Provider DDoS attacks - https://www.microsoft.com/securityinsights/DDoS
 Azure DDoS Protection Standard overview - https://docs.microsoft.com/en-us/azure/virtual-network/ddos-protection-overview
 What is Azure Firewall - https://docs.microsoft.com/en-us/azure/firewall/overview
