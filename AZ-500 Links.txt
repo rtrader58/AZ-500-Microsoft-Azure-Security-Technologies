@@ -4,9 +4,6 @@
 
 ## Module 0
 
-
-This repository is maintained by Rick Trader
-
 Microsoft Learn - https://docs.microsoft.com/en-us/learn/browse/. 
 There is a summary slide at the end of each lesson with applicable online training modules. 
 
