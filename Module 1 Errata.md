@@ -1,4 +1,4 @@
-# AZ-500 Labs Errata   
+# AZ-500T00 Module 1 Labs Errata   
  
 Updated January 2022, November and September 2021 - Labs are the same as July 2020 revision  
 

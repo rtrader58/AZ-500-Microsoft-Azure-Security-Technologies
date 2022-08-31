@@ -1,4 +1,4 @@
-# AZ-500 Labs Errata (2020 revision) 
+# AZ-500T00 Module 2 Labs Errata (2020 revision) 
 
 Updated November and September 2021 - Labs are the same as July 2020 revision 
 When starting each lab choose Yes when prompted to be visible in networks
