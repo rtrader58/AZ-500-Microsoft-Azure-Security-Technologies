@@ -21,6 +21,8 @@ Microsoft Azure Blog - https://azure.microsoft.com/en-us/blog/
 
 Microsoft Learning Community Blog - https://www.microsoft.com/en-us/learning/community-blog.aspx
 
+AZ-500T00 Exam Study Guide - https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VC70 
+
 ## Module 1
 
 Azure Active Directory Documentation - https://docs.microsoft.com/en-us/azure/active-directory
