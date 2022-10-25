@@ -46,7 +46,7 @@ No errata  <br>
 
 ## Labs 4 and 5: MFA, Conditional Access and AAD Identity Protection & Privileged Identity Management (PIM) ~ 60 minutes <br>
  
-Before completing this lab create an outlook.com account for use in this lab.  Refer to the create an outlook.com account document in the file share. <br>
+Before completing this lab create an outlook.com account for use in this lab.  Refer to the create an outlook.com account document in the Github Repository. <br>
 
 ### Exercise 1: Implement Azure MFA 
 
