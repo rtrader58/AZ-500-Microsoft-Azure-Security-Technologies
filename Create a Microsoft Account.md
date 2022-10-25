@@ -2,15 +2,10 @@
 
 ## This class uses Microsoft Azure. In order to accomplish Module 1 Lab 4 and 5 you will create a new Microsoft account. You must provide a valid cell phone number to receive the verification code and create an account. Creating a Microsoft Account
 <br>
-
 ### Note: Do not use an existing Microsoft account for this class.
-
 <br>
-
 ### We recommend creating the account using a New Incognito Window in your browser that you can keep open until the end of the day.  You will need this account to respond to MFA code sent during Module 1 Labs 4 and 5.
-
 <br>
-
 Estimated time to complete: 15 minutes<br>
 Creating a Microsoft Account<br>
 1.	Use Microsoft Edge to browse to http://www.Outlook.com<br>
