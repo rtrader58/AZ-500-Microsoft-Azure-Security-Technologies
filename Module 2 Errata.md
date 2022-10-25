@@ -41,7 +41,7 @@ mstsc /v:MyVmWeb <br>
 
 <br>
 
-E### xercise 1:  Deploy and test an Azure Firewall <br>
+### Exercise 1:  Deploy and test an Azure Firewall <br>
 
 Task 1:  Deploy the Azure firewall <br>
 Step 1:  When prompted:  Logon into the Azure portal with your global administrator account.  <br>
