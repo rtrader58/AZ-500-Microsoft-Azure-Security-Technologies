@@ -34,7 +34,7 @@ Click start Visual Studio<br>
 
 Task 2:  Configure Advanced Data Protection <br>
 Before step 1:  Logon into the Azure portal with your global administrator account. <br>
-Step 2:  On the server blade, in the Security section, click Microsoft Defender for Cloud<br>. 
+Step 2:  On the server blade, in the Security section, click Microsoft Defender for Cloud.<br>
 Step 5:  In the Azure Defender for SQL: Enabled at the subscription-level (Configure) parameter, click (configure).<br>
 Step 7:  Back to Microsoft Defender for Cloud blade, review Recommendations and Security incidents and alerts. <br>
 
