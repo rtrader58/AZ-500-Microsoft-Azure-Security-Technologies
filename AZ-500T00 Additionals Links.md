@@ -2,7 +2,7 @@
 ## Links provided in the course
 ##  Updated 1/09/2023
 
-## Module 0
+### Module 0
 
 Interface Technical Training – https://interfacett.com <br>
 Replay - https://replay.interfacett.com <br>
@@ -20,7 +20,7 @@ Channel 9 - https://channel9.msdn.com/ <br>
 Microsoft Azure Blog - https://azure.microsoft.com/en-us/blog/ <br>
 Microsoft Learning Community Blog - https://www.microsoft.com/en-us/learning/community-blog.aspx <br>
 
-## Module 1 <br>
+### Module 1 <br>
 
 Azure Active Directory Documentation - https://docs.microsoft.com/en-us/azure/active-directory <br>
 Administrator role permissions in Azure Active Directory - https://docs.microsoft.com/en-us/azure/active-directory/users-groups-roles/directory-assign-admin-roles <br>
@@ -73,7 +73,7 @@ Apply and monitor infrastructure standards with Azure Policy - https://docs.micr
 Manage access to an Azure subscription by using Azure role-based access control (RBAC) - https://docs.microsoft.com/en-us/learn/modules/manage-subscription-access-azure-rbac/ <br>
 Control and organize Azure resources with Azure Resource Manager - https://docs.microsoft.com/en-us/learn/modules/control-and-organize-with-azure-resource-manager/ <br>
 
-## Module 2
+### Module 2
 
 Cloud Provider DDoS attacks - https://www.microsoft.com/securityinsights/DDoS <br>
 Azure DDoS Protection Standard overview - https://docs.microsoft.com/en-us/azure/virtual-network/ddos-protection-overview <br>
@@ -135,7 +135,7 @@ Introduction to Docker containers - https://docs.microsoft.com/en-us/learn/modul
 Run Docker containers with Azure Container Instances - https://docs.microsoft.com/en-us/learn/modules/run-docker-with-azure-container-instances/ <br>
 Azure Kubernetes Service Workshop - https://docs.microsoft.com/en-us/learn/modules/aks-workshop/ <br>
 
-## Module 3
+### Module 3
 
 About Azure Key Vault - https://docs.microsoft.com/en-us/azure/key-vault/general/overview <br>
 Azure Key Vault Security - https://docs.microsoft.com/en-us/azure/key-vault/general/overview-security <br>
@@ -192,7 +192,7 @@ Secure your Azure SQL Database - https://docs.microsoft.com/en-us/learn/modules/
 Configure security policies to manage data - https://docs.microsoft.com/en-us/learn/modules/configure-security-policies-to-manage-data/ <br>
 Migrate your relational data stored in SQL Server to Azure SQL Database - https://docs.microsoft.com/en-us/learn/modules/migrate-sql-server-relational-data <br>
 
-## Module 4
+### Module 4
 
 Integrate security solutions in Azure Security Center - https://docs.microsoft.com/en-us/azure/security-center/security-center-partner-integration#exporting-data-to-a-siem <br>
 Metrics - https://docs.microsoft.com/en-us/azure/azure-monitor/platform/data-platform-metrics <br>
